@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tole_android_autotest.iml" filepath="$PROJECT_DIR$/.idea/Tole_android_autotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tole_android_autotest/tole_android_autotest.iml" filepath="$PROJECT_DIR$/tole_android_autotest/tole_android_autotest.iml" />
+    </modules>
+  </component>
+</project>
